@@ -1,0 +1,136 @@
+.inputCRUD{
+    border: rgb(255, 255, 255) 1px solid;
+    border-radius: 5px;
+    height: 4vh;
+}
+
+.LB_Name {
+    z-index: 1;
+    font-size: inherit;
+    font-family: inherit;
+    color: white;
+    padding: 0.5em 1em;
+    outline: none;
+    border: none;
+    background-color: rgb(137, 232, 131);
+    margin: 1vw;
+    border-radius: 10px;
+    font-family: revert;
+}
+.LB_search{
+    z-index: 1;
+    font-size: inherit;
+    font-family: inherit;
+    color: white;
+    padding: 0.5em 1em;
+    outline: none;
+    border: none;
+    background-color: rgb(26, 142, 17);;
+    margin: 1vw;
+    border-radius: 10px;
+    font-family: revert;
+}
+
+.btnAdd,
+.btnUpdate,
+.btnDel {
+    z-index: 1;
+    font-size: inherit;
+    font-family: inherit;
+    color: white;
+    padding: 0.5em 1em;
+    outline: none;
+    border: none;
+    background-color: rgb(137, 232, 131);
+    margin: 1vw;
+    border-radius: 10px;
+    font-family: revert;
+  }
+  
+  .btnAdd:hover,
+  .btnUpdate:hover,
+  .btnDel:hover {
+    cursor: pointer;
+    animation: jelly 0.5s;
+  }
+  
+  @keyframes jelly {
+    0%,
+    100% {
+      transform: scale(1, 1);
+    }
+    25% {
+      transform: scale(0.9, 1.1);
+    }
+    50% {
+      transform: scale(1.1, 0.9);
+    }
+    75% {
+      transform: scale(0.95, 1.05);
+    }
+  }
+
+  .btnSearch{
+    z-index: 1;
+    position: relative;
+    font-size: inherit;
+    font-family: inherit;
+    color: white;
+    padding: 0.5em 1em;
+    outline: none;
+    border: none;
+   background-color: rgb(26, 142, 17);
+    overflow: hidden;
+    transition: color 0.4s ease-in-out;
+    border-radius: 5px;
+    margin: 1vw;
+  }
+  
+  .btnSearch::before {
+    content: '';
+    z-index: -1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 1em;
+    height: 1em;
+    border-radius: 50%;
+    background-color: #0f4607;
+    transform-origin: center;
+    transform: translate3d(-50%, -50%, 0) scale3d(0, 0, 0);
+    transition: transform 0.45s ease-in-out;
+  }
+  
+  .btnSearch:hover {
+    cursor: pointer;
+    color: #161616;
+  }
+  
+  .btnSearch:hover::before {
+    transform: translate3d(-50%, -50%, 0) scale3d(15, 15, 15);
+  }
+  
+
+  th {
+    border: green 1px solid;
+}
+table {
+    border: green 2px solid;
+    font-family: 'Courier New', Courier, monospace;
+    margin:6vh auto;
+    
+}
+.CURD{
+    background-color: rgb(37, 104, 67);
+    padding : 5vw;
+}
+.Search{
+    background-color: rgb(105, 210, 153);
+    padding : 5vw;
+}
+.id{
+    width: 5vw;
+}
+.name{
+    width:30vw;
+}

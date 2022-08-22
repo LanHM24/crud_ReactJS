@@ -1,0 +1,61 @@
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.exe
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.deps.json
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.runtimeconfig.json
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.runtimeconfig.dev.json
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.dll
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.pdb
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csproj.AssemblyReference.cache
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfoInputs.cache
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfo.cs
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csproj.CoreCompileInputs.cache
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.MvcApplicationPartsAssemblyInfo.cache
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\staticwebassets\Tutorial.StaticWebAssets.Manifest.cache
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.RazorTargetAssemblyInfo.cache
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csproj.CopyComplete
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.dll
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.pdb
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.genruntimeconfig.cache
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Study\React-Net Core Tutorial\BE\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\appsettings.json
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.exe
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.deps.json
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.runtimeconfig.json
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.runtimeconfig.dev.json
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.dll
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.pdb
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\React\Tutorial\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\React\Tutorial\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csproj.AssemblyReference.cache
+E:\React\Tutorial\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\React\Tutorial\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfoInputs.cache
+E:\React\Tutorial\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfo.cs
+E:\React\Tutorial\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csproj.CoreCompileInputs.cache
+E:\React\Tutorial\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.MvcApplicationPartsAssemblyInfo.cache
+E:\React\Tutorial\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\staticwebassets\Tutorial.StaticWebAssets.Manifest.cache
+E:\React\Tutorial\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\staticwebassets\Tutorial.StaticWebAssets.xml
+E:\React\Tutorial\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\scopedcss\bundle\Tutorial.styles.css
+E:\React\Tutorial\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.RazorTargetAssemblyInfo.cache
+E:\React\Tutorial\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.dll
+E:\React\Tutorial\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.pdb
+E:\React\Tutorial\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.genruntimeconfig.cache
